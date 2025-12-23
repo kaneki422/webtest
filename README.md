@@ -1,6 +1,7 @@
 # WebTest
 
 This is a simple web project created for learning and practicing Git and GitHub.
+And also learning about web dev....
 
 ## 📌 Features
 - HTML
