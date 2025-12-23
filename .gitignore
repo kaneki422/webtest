@@ -1,0 +1,12 @@
+# Ignore executables
+*.exe
+
+# Node modules
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
